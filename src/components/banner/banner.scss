@@ -1,0 +1,66 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+
+    &__paleta {
+        width: 400px;
+        height: 500px;
+
+        &__color {
+            height: 100px;
+            width: 400px;
+            background-color: #3C403D;
+
+            &--1 {
+                background-color: #A3BCB6;
+                height: 100px;
+                width: 400px;
+            }
+            &--2 {
+                background-color: #39603D;
+                height: 100px;
+                width: 400px;
+            }
+            &--3 {
+                background-color: #3C403D;
+                height: 100px;
+                width: 400px;
+            }
+            &--4 {
+                background-color: #DADED4;
+                height: 100px;
+                width: 400px;
+            }
+            &--5 {
+                background-color: #FFFFFF;
+                height: 100px;
+                width: 400px;
+            }
+            &--1a {
+                background-color: #164A41;
+                height: 100px;
+                width: 400px;
+            }
+            &--2a {
+                background-color: #4D774E;
+                height: 100px;
+                width: 400px;
+            }
+            &--3a {
+                background-color: #9DC88D;
+                height: 100px;
+                width: 400px;
+            }
+            &--4a {
+                background-color: #F1B24A;
+                height: 100px;
+                width: 400px;
+            }
+            &--5a {
+                background-color: #FFFFFF;
+                height: 100px;
+                width: 400px;
+            }
+        }
+    }
+}
